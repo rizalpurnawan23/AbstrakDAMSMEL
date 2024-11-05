@@ -11,7 +11,7 @@ Welcome to **AbstrakDAMSMEL**, and get ready for continuous optimisation.
 **AbstrakDAMSMEL** (Abstrak-Directional Adaptive Metric Sampling Minimal Expected Loss), is a Python package for mathematical optimisation developed by Rizal Purnawan
 in collaboration with Dr. Dieky Adzkiya (Department of Mathematics, Institut Teknologi Sepuluh Nopember) under an indpendent project Abstrak.
 
-**DAMSMEL** (Directional Adaptive Metric Sampling Minimal Expected Loss) is a novel optimisation method for continuous optimisation, currently for unconstraint problems,
+**DAMSMEL** (Directional Adaptive Metric Sampling Minimal Expected Loss) is an optimisation method for continuous optimisation, currently for unconstraint problems,
 developped by Rizal Purnawan and Dr. Dieky Adzkiya (Department of Mathematics, Institut Teknologi Sepuluh Nopember) on an independent research project.
 
 **DAMSMEL** uses adaptive metric sampling with exponentially decaying distance of adjacent point samples and by exploiting the minimal expected loss in the samples.
