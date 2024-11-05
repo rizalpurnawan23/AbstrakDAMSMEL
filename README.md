@@ -2,6 +2,8 @@
   <img src="img/AbstrakDAMSMEL_logo_v1.svg" alt="AbstrakDAMSMEL Logo">
 </p>
 
+[![DOI](https://zenodo.org/badge/883910405.svg)](https://doi.org/10.5281/zenodo.14042916)
+
 # **AbstrakDAMSMEL**
 
 Welcome to **AbstrakDAMSMEL**, and get ready for continuous optimisation.
