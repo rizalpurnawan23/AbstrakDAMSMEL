@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/AbstrakDAMSMEL.svg" alt="AbstrakDAMSMEL Logo">
+  <img src="img/AbstrakDAMSMEL_logo.svg" alt="AbstrakDAMSMEL Logo">
 </p>
 
 # **AbstrakDAMSMEL**
