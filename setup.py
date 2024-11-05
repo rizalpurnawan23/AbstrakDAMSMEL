@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     packages=find_packages(),
     description="A continuous optimisation algorithm",
-    author="Rizal Purnawan",
+    author="Rizal Purnawan and Dieky Adzkiya",
     install_requires=[
         'numpy>=1.26.0',
         'pandas>=2.1.1'
