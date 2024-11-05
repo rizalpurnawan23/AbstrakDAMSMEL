@@ -28,10 +28,7 @@ and [Dieky Adzkiya](https://orcid.org/0000-0002-4718-2871)
 (Department of Mathematics, Institut Teknologi Sepuluh Nopember) as in independent research project.
 
 While **AbstrakDAMSMEL** is an implementation of DAMSMEL into a Python package, developed by
-[Rizal Purnawan](https://orcid.org/0000-0001-8858-4036)
-and [Dieky Adzkiya](https://orcid.org/0000-0002-4718-2871)
-(Department of Mathematics, Institut Teknologi Sepuluh Nopember) under project Abstrak.
-
+[Rizal Purnawan](https://orcid.org/0000-0001-8858-4036).
 
 ## **Importing AbstrakDAMSMEL**
 
