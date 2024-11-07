@@ -54,8 +54,7 @@ from damsmel.damsmel import DAMSMEL
 as in independent research project.
 
 While **AbstrakDAMSMEL** is an implementation of [DAMSMEL](https://doi.org/10.21203/rs.3.rs-5402563/v1) into a Python package,
-developed by [Rizal Purnawan](https://github.com/rizalpurnawan23)<sup>1</sup> and [Dieky Adzkiya](https://github.com/diekyadzkiya)<sup>2</sup>
-(Department of Mathematics, Institut Teknologi Sepuluh Nopember).
+developed by [Rizal Purnawan](https://github.com/rizalpurnawan23)<sup>1</sup> and [Dieky Adzkiya](https://github.com/diekyadzkiya)<sup>2</sup>.
 
 <sup>1</sup>ORCID: [0000-0001-8858-4036](https://orcid.org/0000-0001-8858-4036)\
 <sup>2</sup>ORCID: [0000-0002-4718-2871](https://orcid.org/0000-0002-4718-2871)\
