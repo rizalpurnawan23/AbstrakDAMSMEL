@@ -12,13 +12,16 @@ Welcome to **AbstrakDAMSMEL**, and get ready for continuous optimisation.
 
 **AbstrakDAMSMEL** (Abstrak-Directional Adaptive Metric Sampling Minimal Expected Loss), is a Python package for mathematical optimisation, specifically, continuous optimisations.
 
-**DAMSMEL** (Directional Adaptive Metric Sampling Minimal Expected Loss) is an optimisation method for continuous optimisation, currently for unconstraint problems.
+**DAMSMEL** (Directional Adaptive Metric Sampling Minimal Expected Loss) is an optimisation method for continuous optimisation, currently for unconstrained problems.
 
 **DAMSMEL** uses adaptive metric sampling with exponentially decaying distance of adjacent points and by exploiting the minimal expected loss in the samples.
-In our paper, we have shown DAMSMEL's convergence for convex optimisation landscapes.
+In our paper [(Purnawan and Adzkiya, 2024)](https://doi.org/10.21203/rs.3.rs-5402563/v1), we have shown DAMSMEL's convergence for convex optimisation landscapes.
 We have also performed empirical tests on DAMSMEL in several problems and have shown that DAMSMEL tends to provide better accuracies and reliability compared to gradient-based optimisations.
 We have also demonstrated DAMSMEL capacity as a machine learning model for medium scale regression problems in [this notebook](damsmel_tests/damsmel_test_concrete.ipynb).
 All of our current tests on DAMSMEL can be observerd [here](damsmel_tests).
+
+**Reference**\
+Purnawan, R.; Adzkiya, D. (2024). *Directional Adaptive Metric Sampling Minimal Expected Loss: A Continuous Optimisation Method*. PREPRINT (Version 1). Research Square. DOI: [10.21203/rs.3.rs-5402563/v1](https://doi.org/10.21203/rs.3.rs-5402563/v1)
 
 ## **Contributors**
 
