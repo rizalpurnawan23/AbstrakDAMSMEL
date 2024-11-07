@@ -25,15 +25,15 @@ Purnawan, R.; Adzkiya, D. (2024). *Directional Adaptive Metric Sampling Minimal 
 
 ## **Contributors**
 
-**DAMSMEL** is developed by
-[Rizal Purnawan](https://orcid.org/0000-0001-8858-4036)
-and [Dieky Adzkiya](https://orcid.org/0000-0002-4718-2871)
-(Department of Mathematics, Institut Teknologi Sepuluh Nopember) as in independent research project.
+**DAMSMEL** is developed by [Rizal Purnawan](https://github.com/rizalpurnawan23)<sup>1</sup> and [Dieky Adzkiya](https://github.com/diekyadzkiya)<sup>2</sup> as in independent research project.
 
-While **AbstrakDAMSMEL** is an implementation of DAMSMEL into a Python package, developed by
-[Rizal Purnawan](https://orcid.org/0000-0001-8858-4036)
-and [Dieky Adzkiya](https://orcid.org/0000-0002-4718-2871)
+While **AbstrakDAMSMEL** is an implementation of DAMSMEL into a Python package, developed by Rizal Purnawan and Dieky Adzkiya
 (Department of Mathematics, Institut Teknologi Sepuluh Nopember).
+
+<sup>1</sup>ORCID: [0000-0001-8858-4036](https://orcid.org/0000-0001-8858-4036)\
+<sup>2</sup>ORCID: [0000-0002-4718-2871](https://orcid.org/0000-0002-4718-2871)\
+<sup>2</sup>Department of Mathematics, Institut Teknologi Sepuluh Nopember
+
 
 ## **Importing AbstrakDAMSMEL**
 
