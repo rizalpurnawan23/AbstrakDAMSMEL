@@ -47,6 +47,7 @@ from damsmel.damsmel import DAMSMELRegressor
 ```
 from damsmel.damsmel import DAMSMEL
 ```
+For ease of use, watch [our tutorials](https://youtu.be/ZjmQ48pCego?si=W34WWYDduDqu11YB) on [our Youtube channel](https://www.youtube.com/@abstrak-math).
 
 ## **Contributors**
 
@@ -63,3 +64,8 @@ developed by [Rizal Purnawan](https://github.com/rizalpurnawan23)<sup>1</sup> an
 ## **License**
 
 **AbstrakDAMSMEL** is under [MIT License](LICENSE). So, feel free to use it. We hope it could be helpful for everybody.
+
+## **Get in Touch with Us**
+
+[<img align="left" alt="Linkedin" height="22px" src="img/linkedin-original.svg" style="padding-right:10px;"/>](https://www.linkedin.com/company/abstrak-math/)
+[<img align="left" alt="Linkedin" height="22px" src="img/YouTube.svg" style="padding-right:10px;"/>]([https://www.linkedin.com/company/abstrak-math/](https://www.youtube.com/@abstrak-math))
